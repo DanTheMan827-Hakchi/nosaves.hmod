@@ -1,7 +1,8 @@
 ---------------------
 Name: No Saves
 Creator: DanTheMan827
-Version: 1.0
+Category: Utilities
+Version: 1.0.1
 ---------------------
 This mod will clear the saves on every boot.
 
